@@ -1,0 +1,199 @@
+/* write your styles here */
+
+marquee{
+    background-color:#ed484c;
+    padding: 5px;
+    color:white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.logo{
+    padding: 10px;
+    height: 4em;
+    width: 9em;
+}
+#join-now{
+    padding-top: 1em;
+    background-color: #e78790;
+    background-image: url("images/floral.png");
+
+
+
+  
+   
+}
+
+header{
+    display: flex;
+    margin: 0%;
+    padding: 0%;
+    justify-content: space-between;
+    background-color:#4c4c4c;
+    color:white;
+
+
+}
+
+
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+li{
+   
+    justify-content: space-between;
+   list-style: none;
+    padding: 15px 15px 
+   
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+h1{
+    display: flex;
+    font-size: -webkit-xxx-large;
+    justify-content: center;
+    font-family: 'Mitr', sans-serif;
+ 
+}
+.hr{
+    border-bottom: 1px solid;
+}
+p{
+    display: flex;
+    color: black;
+    justify-content: center;
+    font-family: 'Mitr', sans-serif;
+   
+}
+  
+
+.hr{
+    border-bottom: 1px solid;
+}
+main{
+    display: flex;
+    flex-direction: column;
+}
+.fa-html5{
+    border: transparent;
+    width: 100px;
+ 
+}
+.button{
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    padding: 1.6em 5em;
+    border: none;
+ 
+ 
+}
+
+button{
+    color:#e78790;
+    background-color: black;
+    padding: 1.3em 5em;
+    border: aliceblue;
+    font-family: 'Roboto Slab', serif;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    font-family: 'Satisfy', cursive;
+}
+
+
+#services{
+    background-color: #d5c6ad;
+    background-image: url("images/floral.png")
+}
+.our-services{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+    
+}
+.html-logo{
+    display: flex;
+    display: inline;
+    text-align: center;
+    width: 300px;
+   
+  
+}
+.css-logo{
+    display: flex;
+    display: inline;
+    text-align: center;
+    width: 300px;
+}
+.js-logo{
+    display: flex;
+    display: inline;
+    text-align: center;
+    width: 300px;
+}
+.logos{
+   
+    font-size: 200px;
+}
+.logos:hover{
+    transition : 0.5s;
+    color: #ed484c
+  
+}
+.our-students{
+    display: flex;
+    display: inline;
+    text-align: center;
+}
+p{
+    font-weight:bold;
+}
+.grey-color{
+    color:gainsboro;
+  
+}
+#portfolio{
+    display: flex;
+    width:100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+}
+
+img{
+    height: 27em;
+    width: 35em;
+
+}
+.images{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    width: 50%;
+    flex-direction:row-reverse;
+}
+
+  
+
+
+
+   
+
+  
+   
+
+
+
+
+
+    
+    
+   
